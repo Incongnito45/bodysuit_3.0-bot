@@ -53,7 +53,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone https://github.com/Incongnito45/bodysuit_3.0-bot
   ```
 
 - Now go to cloned directory and run `zphisher.sh` -
